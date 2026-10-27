@@ -25,19 +25,18 @@ The project explores the relationship between imitation and representation, brin
 
 The artwork is produced with a special application designed and programmed by the artist. Its ASCII-art process uses newer code libraries to create images that are more pictorial than earlier text-art works.
 
-### *Outlooks on Digital Art*
+### _Outlooks on Digital Art_
 
-The [book page](https://eldiletante.com/book.html) describes *Outlooks on Digital Art* (*Perspectivas del Arte Digital*, 2020), a three-author collection about contemporary digital art. Kevin’s chapter summarizes his master’s research and examines artistic practices on the internet through the example of The Digital Dilettante.
+The [book page](https://eldiletante.com/book.html) describes _Outlooks on Digital Art_ (_Perspectivas del Arte Digital_, 2020), a three-author collection about contemporary digital art. Kevin’s chapter summarizes his master’s research and examines artistic practices on the internet through the example of The Digital Dilettante.
 
 ## About the artist
 
-Kevin Beovides Casas works across visual arts, literature, and technology. His work has appeared in exhibitions including *Ojalá!* in Berlin (2015) and [*Hope* at ESMoA](https://esmoa.org/experience/hope/) in Los Angeles (2017). He has taught at the University of Arts of Cuba, the University of Havana, and Miami Dade College, and has spoken at events including Princeton University’s *Beyond the Hyphen* conference.
+Kevin Beovides Casas works across visual arts, literature, and technology. His work has appeared in exhibitions including _Ojalá!_ in Berlin (2015) and [_Hope_ at ESMoA](https://esmoa.org/experience/hope/) in Los Angeles (2017). He has taught at the University of Arts of Cuba, the University of Havana, and Miami Dade College, and has spoken at events including Princeton University’s _Beyond the Hyphen_ conference.
 
 His education includes:
 
 - B.A. in Philosophy, University of Havana (2004)
 - M.A. in Art History, University of Havana (2011)
-- A.S. in Computer Programming and Analysis, Miami Dade College (2019)
 
 More background is available on the [artist page](https://eldiletante.com/artist.html), with additional profiles on [LinkedIn](https://www.linkedin.com/in/beovideskevin) and [GitHub](https://github.com/beovideskevin).
 
